@@ -9,6 +9,4 @@
 #import <React/RCTView.h>
 
 @interface RNCollectionView : RCTView
-@property (nonatomic, assign) NSArray *locations;
-@property (nonatomic, assign) NSArray *colors;
 @end

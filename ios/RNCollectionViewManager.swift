@@ -11,6 +11,6 @@ import Foundation
 @objc(RNCollectionViewSwift)
 class RNCollectionViewManager : RCTViewManager {
   override func view() -> UIView! {
-    return RNCollectionViewDemo(); // We'll change this later
+    return RNCollectionViewDemo(); 
   }
 }
